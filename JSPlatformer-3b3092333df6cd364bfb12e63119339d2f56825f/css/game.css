@@ -1,0 +1,17 @@
+.background    { background-image: url("http://thewallpaper.co/wp-content/uploads/2017/08/artwork-hd-wallpapers-artistic-halloweendark-creepy-scary-fantasytablet-original-pictures-horror-display-art-spooky-evil.jpg");
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background: #ff6699; }
+.wall          { background: #f2ffe6;   }
+
+.actor  { position: absolute;  }
+.player { background: #99ff33; }
+.floater { background: #e580ff}
+
+.game {
+  overflow: hidden;
+  /*max-width: 600px;
+  max-height: 450px;*/
+  position: relative;
+}
